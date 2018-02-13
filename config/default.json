@@ -1,0 +1,6 @@
+{
+  "PORT": 3100,
+  "VERBOSE_LOGGING": true,
+  "JOB_INTERVAL": "5m",
+  "INACTIVITY_PERIOD": "1m"
+}

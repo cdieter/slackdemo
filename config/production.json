@@ -1,0 +1,5 @@
+{
+  "VERBOSE_LOGGING": false,
+  "JOB_INTERVAL": "5h",
+  "INACTIVITY_PERIOD": "10d"
+}

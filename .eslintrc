@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-topcoder/nodejs-babel",
+  "rules": {
+    "no-magic-numbers": 0
+  }
+}
